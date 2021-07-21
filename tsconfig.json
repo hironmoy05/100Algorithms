@@ -16,7 +16,7 @@
     "node_modules"
   ],
   "include": [
-    "src/**/*100AlgorithmsChallenge-master"
+    "src/**/*"
   ],
   "typeRoots": [
     "node_modules/@types"
